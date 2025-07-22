@@ -66,6 +66,17 @@ The plugin isn't customizable in any way (other than modifying the code). There 
 
 One potential issue is if you already have a note named "Numbered Folders Index" at the root of your Vault. This plugin will overwrite that file. There isn't a config setting to change the note used for the index.
 
+## Installation
+
+This plugin isn't in the main Obsidian Plugins Directory because it's an "AI Slop" project, created with Claude. The Obsidian team has been overrun by AI-generated plugins, so I'm holding back on adding this to their queue until I've been using it for awhile.
+
+Download the `numbered-folders-index` folder from Git, unzip it, and copy it into your Obsidian vault at:
+
+`(vault directory)/.obsidian/plugins/`
+
+Then open your Obsidian vault's settings, go to Community Plugins and hit the "refresh" button just above the list of installed plugins. "Numbered Folders Index" should show up. Turn it on. That's it. The Numbered Folders Index note should have been automatically created and filled with an index of all of your numbered folders.
+
+## Screenshot
 ![screenshot of the plugin](screenshot.webp)
 
 ## But the Files sidebar does this!

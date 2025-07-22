@@ -55,7 +55,7 @@ I have some that are nested 4 levels deep.
 
 I also have some folders that start with a year, like "2022 videoconferencing" - and these aren't included in the index. Only folders that use the ##.##.##.## format get included.
 
-Additionally, I use the [Folder Notes Plugin](https://github.com/LostPaul/obsidian-folder-notes) by Lost Paul, to generate notes for specific folders. Sometimes, they include additional info. Sometimes, they include dataviews and other useful tools. If a folder note exists for a numbered folder, the Numbered Folders Index page will link directly to it. Handy.
+Additionally, I use the [Folder Notes Plugin](https://github.com/LostPaul/obsidian-folder-notes) by Lost Paul to generate notes for specific folders. Sometimes, they include additional info. Sometimes, they include dataviews and other useful tools. If a folder note exists for a numbered folder, the Numbered Folders Index page will link directly to it. Handy.
 
 # Using the plugin
 If you organize your Obsidian Vault using numbered folders ala zettelkasten, this might work for you.
@@ -81,7 +81,7 @@ Then open your Obsidian vault's settings, go to Community Plugins and hit the "r
 
 ## But the Files sidebar does this!
 
-Kind of. But it's handy to have a page with the links (for reference), and the index feed The Graph™ to help make connections based on the zettelkasten folder structure.
+Kind of. But it's handy to have a page with the links (for reference), and the index feeds The Graph™ to help make connections based on the zettelkasten folder structure.
 
 ## But this could have been done with Dataview or DataviewJS! 
 Yup. I did that initially. But those don't feed into The Graph™, and the view refreshes pretty often. Adding numbered folders doesn't happen very often, so running it once in a while is more than enough.

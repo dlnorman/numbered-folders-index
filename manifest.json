@@ -1,0 +1,11 @@
+{
+    "id": "numbered-folders-index",
+    "name": "Numbered Folders Index",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically generates and maintains an index of numbered folders with links to their folder notes",
+    "author": "D'Arcy Norman",
+    "authorUrl": "https://darcynorman.net",
+    "fundingUrl": "",
+    "isDesktopOnly": false
+}

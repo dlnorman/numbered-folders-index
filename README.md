@@ -64,6 +64,8 @@ The Numbered Folders Index note gets generated (or refreshed) when the plugin is
 
 The plugin isn't customizable in any way (other than modifying the code). There aren't any settings or configuration options.
 
+One potential issue is if you already have a note named "Numbered Folders Index" at the root of your Vault. This plugin will overwrite that file. There isn't a config setting to change the note used for the index.
+
 ![screenshot of the plugin](screenshot.webp)
 
 ## But the Files sidebar does this!
